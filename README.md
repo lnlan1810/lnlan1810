@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">## 🚀 About Me  
+<p align="left"> 
 I'm a Software Engineer with a strong passion for building innovative and scalable applications. My main expertise is in Android Development, but I enjoy taking on new challenges in various fields such as Web Development, AI, Blockchain, and Cloud Computing.</p>
 
 
@@ -50,7 +50,9 @@ I'm a Software Engineer with a strong passion for building innovative and scalab
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="40" alt="teraform logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=512&id=HOqGCOyHDbd4&format=png" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
