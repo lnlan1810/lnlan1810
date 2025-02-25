@@ -19,11 +19,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lnlan1810.lnlan1810&"  />
-</div>
 
 ###
 
@@ -32,7 +27,7 @@
 ###
 
 <p align="left">## 🚀 About Me  
-I'm a **Software Engineer** with a strong passion for building innovative and scalable applications. My main expertise is in **Android Development**, but I enjoy taking on new challenges in various fields such as **Web Development, AI, Blockchain, and Cloud Computing**.</p>
+I'm a Software Engineer with a strong passion for building innovative and scalable applications. My main expertise is in Android Development, but I enjoy taking on new challenges in various fields such as Web Development, AI, Blockchain, and Cloud Computing.</p>
 
 
 ###
@@ -65,12 +60,6 @@ I'm a **Software Engineer** with a strong passion for building innovative and sc
 ###
 
 <h3 align="left">🔥   Моя статистика :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lnlan1810&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
