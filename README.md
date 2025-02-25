@@ -32,7 +32,7 @@ I'm a Software Engineer with a strong passion for building innovative and scalab
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ###
 
@@ -61,7 +61,7 @@ I'm a Software Engineer with a strong passion for building innovative and scalab
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥   My Statistics :</h3>
 
 ###
 
